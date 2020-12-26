@@ -5,6 +5,8 @@ unRAID 中文化项目
 
 本项目Fork原项目，并且修复了脚本失效问题
 
+Gitee页面：https://gitee.com/cnyunlan/unRAID-chs-project
+
 基于 unRAID Server Web 控制台 的汉化项目.
 
 让国内用户更好的体验 unRAID Server.
@@ -14,6 +16,14 @@ unRAID 中文化项目
 ### 插件方式:
 登录 unraid web面板 选择插件页面
 输入插件地址  点击安装即可.
+
+#### Gitee源(建议国内使用)：
+
+unRaid 6.8.1 https://gitee.com/cnyunlan/unRAID-chs-project/raw/master/release/urchs.681.plg
+
+unRaid 6.8.2 https://gitee.com/cnyunlan/unRAID-chs-project/raw/master/release/urchs.682.plg
+
+#### Github源(建议海外使用)：
 
 unRaid 6.8.1
 https://raw.githubusercontent.com/yunlancn/unRAID-chs-project/master/release/urchs.681.plg
